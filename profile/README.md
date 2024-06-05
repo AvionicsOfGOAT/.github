@@ -22,13 +22,3 @@ We are currently working on several key projects that involve:
 If you are new to our organization, we recommend starting with the following repositories:
 
 - [2023 Avionics And Ground System](https://github.com/AvionicsOfGOAT/2023-avionics-and-ground-system)
-
-Each repository contains detailed instructions on how to get involved and contribute.
-
-## Contact Us
-
-For any questions or further information, feel free to reach out to us through our [contact page](CONTACT.md).
-
-## License
-
-All projects within this organization are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
