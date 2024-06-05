@@ -1,4 +1,4 @@
-# GOAT Avionics Team
+# 🚀 GOAT Avionics Team
 
 Welcome to the GitHub organization for the Avionics Team of the GOAT Rocket Club at Gachon University. 
 
