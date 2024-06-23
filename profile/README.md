@@ -1,4 +1,4 @@
-![IMG_7539](https://github.com/AvionicsOfGOAT/.github/assets/136783693/39c6bb93-1068-4086-87d7-fb08cffe6eaa)# 🚀 GOAT Avionics Team 💻
+# 🚀 GOAT Avionics Team 💻
 Welcome to the GitHub organization for the Avionics Team of the GOAT Rocket Club at Gachon University. 
 
 ## About Us
