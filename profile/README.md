@@ -1,4 +1,4 @@
-# 🚀 GOAT Avionics Team 💻
+![IMG_7539](https://github.com/AvionicsOfGOAT/.github/assets/136783693/39c6bb93-1068-4086-87d7-fb08cffe6eaa)# 🚀 GOAT Avionics Team 💻
 Welcome to the GitHub organization for the Avionics Team of the GOAT Rocket Club at Gachon University. 
 
 ## About Us
@@ -17,6 +17,8 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
 ![Description of Image](https://github.com/AvionicsOfGOAT/Document/blob/main/image/2022.jpg)
 
 ### 2023
+![IMG_7539](https://github.com/AvionicsOfGOAT/.github/assets/136783693/6ffd4645-619d-443a-be9d-a19f6c9b249f)
+
 
 ## Getting Started
 
