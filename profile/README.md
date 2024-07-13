@@ -32,16 +32,6 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
         <img src="https://github.com/taeseokyang.png?size=230" alt="양태석" />
       </a>
     </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/ys0819" target="_blank">
-        <img src="https://github.com/ys0819.png?size=230" alt="박연서" />
-      </a>
-    </td>
-    <td align="center" width="150px">
-      <a href="https://github.com/measaverb" target="_blank">
-        <img src="https://github.com/measaverb.png?size=230" alt="김영한" />
-      </a>
-    </td>
   </tr>
     <tr>
    <td align="center">
@@ -64,18 +54,18 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
         양태석
       </a>
     </td>
-   <td align="center">
-      <a href="https://github.com/ys0819" target="_blank">
-        박연서
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/measaverb" target="_blank">
-        김영한
-      </a>
-    </td>
   </tr>
     <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/ys0819" target="_blank">
+        <img src="https://github.com/ys0819.png?size=230" alt="박연서" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/measaverb" target="_blank">
+        <img src="https://github.com/measaverb.png?size=230" alt="김영한" />
+      </a>
+    </td>
     <td align="center" width="150px">
       <a href="https://github.com/Kominwoo02" target="_blank">
         <img src="https://github.com/Kominwoo02.png?size=230" alt="고민우" />
@@ -86,6 +76,30 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
         <img src="https://github.com/mj051231.png?size=230" alt="김민준" />
       </a>
     </td>
+  </tr>
+    <tr>
+   <td align="center">
+      <a href="https://github.com/ys0819" target="_blank">
+        박연서
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/measaverb" target="_blank">
+        김영한
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/Kominwoo02" target="_blank">
+        고민우
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/mj051231" target="_blank">
+        김민준
+      </a>
+    </td>
+  </tr>
+   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/mj051231" target="_blank">
         <img src="https://github.com/mj051231.png?size=230" alt="최민혁" />
@@ -103,16 +117,6 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
     </td>
   </tr>
     <tr>
-   <td align="center">
-      <a href="https://github.com/Kominwoo02" target="_blank">
-        고민우
-      </a>
-    </td>
-   <td align="center">
-      <a href="https://github.com/mj051231" target="_blank">
-        김민준
-      </a>
-    </td>
    <td align="center">
       <a href="https://github.com/mj051231" target="_blank">
         최민혁
