@@ -139,13 +139,13 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
 
 <table>
   <tr>
-    <td align="center" width="200px">
+    <td align="center" width="400px">
         <img src="https://github.com/AvionicsOfGOAT/Document/blob/main/image/2021.jpg?size=230" alt="2021" />
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="400px">
         <img src="https://github.com/AvionicsOfGOAT/Document/blob/main/image/2022.jpg?size=230" alt="2022" />
     </td>
-    <td align="center" width="200px">
+    <td align="center" width="400px">
         <img src="https://github.com/AvionicsOfGOAT/.github/assets/136783693/6ffd4645-619d-443a-be9d-a19f6c9b249f?size=230" alt="2023" />
     </td>
   </tr>
