@@ -135,6 +135,8 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
   </tr>
 </table>
 
+## Annual Team Photos
+
 <table>
   <tr>
     <td align="center" width="400px">
