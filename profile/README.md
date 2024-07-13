@@ -135,8 +135,6 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
   </tr>
 </table>
 
-### Founded in 2021
-
 <table>
   <tr>
     <td align="center" width="400px">
@@ -154,21 +152,12 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
       2021
     </td>
    <td align="center">
-     2022
+      2022
     </td>
    <td align="center">
       2023
     </td>
 </table>
-
-![Description of Image](https://github.com/AvionicsOfGOAT/Document/blob/main/image/2021.jpg)
-
-### 2022
-![Description of Image](https://github.com/AvionicsOfGOAT/Document/blob/main/image/2022.jpg)
-
-### 2023
-![IMG_7539]()
-
 
 ## Getting Started
 
