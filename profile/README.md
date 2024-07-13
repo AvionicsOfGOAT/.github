@@ -22,6 +22,21 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
         <img src="https://github.com/doondu.png?size=230" alt="김윤수" />
       </a>
     </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/chaos1231107" target="_blank">
+        <img src="https://github.com/chaos1231107.png?size=230" alt="박건우" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/taeseokyang" target="_blank">
+        <img src="https://github.com/taeseokyang.png?size=230" alt="양태석" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/ys0819" target="_blank">
+        <img src="https://github.com/ys0819.png?size=230" alt="박연서" />
+      </a>
+    </td>
   </tr>
     <tr>
    <td align="center">
@@ -32,6 +47,21 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
    <td align="center">
       <a href="https://github.com/doondu" target="_blank">
         김윤수
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/agtmwebtoon" target="_blank">
+        박건우
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/doondu" target="_blank">
+        양태석
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/agtmwebtoon" target="_blank">
+        박연서
       </a>
     </td>
   </tr>
