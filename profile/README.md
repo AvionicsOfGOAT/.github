@@ -9,6 +9,22 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
 - 📡**Data Collection and Communication**: Developing robust systems for collecting telemetry data and ensuring effective communication between our rockets and ground control.
 - 💻**Monitoring Website**: Building a website for real-time monitoring and analysis of flight data and system status.
 
+##
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/agtmwebtoon" target="_blank">
+        <img src="https://github.com/agtmwebtoon.png?size=180" alt="이민형" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/doondu" target="_blank">
+        <img src="https://github.com/doondu.png?size=230" alt="김윤수" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Founded in 2021
 ![Description of Image](https://github.com/AvionicsOfGOAT/Document/blob/main/image/2021.jpg)
