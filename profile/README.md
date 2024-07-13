@@ -160,9 +160,3 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
       2023
     </td>
 </table>
-
-## Getting Started
-
-If you are new to our organization, we recommend starting with the following repositories:
-
-- [2023 Avionics And Ground System](https://github.com/AvionicsOfGOAT/2023-avionics-and-ground-system)
