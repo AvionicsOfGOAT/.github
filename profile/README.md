@@ -15,12 +15,24 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/agtmwebtoon" target="_blank">
-        <img src="https://github.com/agtmwebtoon.png?size=180" alt="이민형" />
+        <img src="https://github.com/agtmwebtoon.png?size=230" alt="이민형" />
       </a>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/doondu" target="_blank">
         <img src="https://github.com/doondu.png?size=230" alt="김윤수" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+   <td align="center">
+      <a href="https://github.com/agtmwebtoon" target="_blank">
+        이민형
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/doondu" target="_blank">
+        김윤수
       </a>
     </td>
   </tr>
