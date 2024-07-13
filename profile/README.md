@@ -9,8 +9,7 @@ We are the Avionics Team, a dedicated group within the GOAT Rocket Club, focused
 - 📡**Data Collection and Communication**: Developing robust systems for collecting telemetry data and ensuring effective communication between our rockets and ground control.
 - 💻**Monitoring Website**: Building a website for real-time monitoring and analysis of flight data and system status.
 
-##
-
+## Members
 <table>
   <tr>
     <td align="center" width="150px">
